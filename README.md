@@ -2,7 +2,7 @@ Fast-Wifi-Android-App
 =====================
 
 Description:<br>
-Fast-Wifi application skips the process of traditional Wi-Fi scanning and connection. It first footprints a location and then connects to the best Wi-Fi AP based on the footprint at that location. We can footprint multiple locations and connect to Wi-Fi in time and energy efficient way.
+Fast-Wifi application skips the process of traditional Wi-Fi scanning and connection. It first footprints a location and then connects to the best Wi-Fi AP based on the footprint at that location. We can footprint multiple locations and connect to Wi-Fi in time and energy efficient way. <br><br>
 Features: <br>
 1.	Footprinting of location <br>
 2.	Motion sensor support<br>
